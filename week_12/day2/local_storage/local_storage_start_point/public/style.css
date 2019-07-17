@@ -1,0 +1,11 @@
+dt, dd {
+  display: inline-block;
+}
+
+dt::after {
+  content: ":";
+}
+
+input {
+  display: block;
+}

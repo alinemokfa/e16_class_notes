@@ -1,0 +1,10 @@
+li {
+  padding: 2px;
+  margin: 2px;
+}
+
+img {
+  max-height: 100px;
+  max-width: 100px;
+  padding: 0px 10px;
+}

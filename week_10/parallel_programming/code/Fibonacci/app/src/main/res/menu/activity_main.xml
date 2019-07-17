@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/non_threaded" android:title="@string/non_threaded" />
+    <item android:id="@+id/threaded" android:title="@string/threaded" />
+</menu>

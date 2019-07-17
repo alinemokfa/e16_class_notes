@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fibonacci</string>
+    <string name="waiting_for_answer">I\'ll update the UI as soon as I know the answer!</string>
+    <string name="non_threaded">Non-threaded</string>
+    <string name="threaded">Threaded</string>
+    <string name="non_threaded_description">This is the non-threaded Fibonacci solver, and will lock the UI.</string>
+    <string name="threaded_description">This is the threaded Fibonacci solver, which will not lock the UI.</string>
+    <string name="enter_position">Enter Fibonacci index</string>
+</resources>

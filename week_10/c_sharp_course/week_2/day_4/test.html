@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <script type="text/javascript">
+    function clicked(){
+
+      //create a new XMLHttpRequest object
+      fetch("http://localhost:51401/api/branches")
+      .then(function(resp) {
+        return resp.json();
+      })
+      .then(function(json) {
+        console.log(json);
+        console.log(json[0]);
+      })
+      .catch(function(err) {
+        console.log(err);
+      });
+    }
+  </script>
+</head>
+<body>
+  <button onClick="clicked()">Click me!</button>
+</body>
+</html>

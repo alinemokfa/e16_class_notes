@@ -1,0 +1,5 @@
+- Add a chicken that implements Edible and make the bear eat it
+- Make the chicken cluck()
+- Confirm a chicken is returned from the throwUp() method
+- Add a nutritionValue() method to Edible (just an int)
+- Add a totalNutrition method to the bear, which returns the sum of the nutrition of the food in the bear's belly.

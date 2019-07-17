@@ -1,0 +1,45 @@
+body{
+  font-family: Verdana, Arial, sans-serif;
+}
+
+a{
+  color: #136cb2;
+  text-decoration: none;
+}
+
+.openings-box{
+  width: 300px;
+  margin: 10px auto;
+  border: 1px solid black;
+  padding: 10px;
+  background-color: #f1f1f1;
+}
+
+.movie-table{
+  border-bottom: solid 1px #ccc;
+  border-top: solid 1px #ccc;
+  margin-top: 10px;
+}
+
+.movie-row{
+  padding: 10px;
+  font-size: 14px;
+}
+
+.more-link{
+  padding: 10px;
+}
+
+.show-times{
+  width: 270px;
+  margin: 10px auto;
+}
+
+.btn-show-times{
+  width: 270px;
+  height: 60px;
+  background-color: #136cb2;
+  color: white;
+  font-size: 22px;
+  border: none;
+}

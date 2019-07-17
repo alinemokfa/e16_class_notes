@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Word Counter</string>
+    <string name="get_word_count">Count the words!</string>
+    <string name="num_words">words.</string>
+    <string name="get_concordance">Concordance</string>
+    <string name="count_words_text">Count the words</string>
+</resources>
